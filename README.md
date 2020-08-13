@@ -1,3 +1,8 @@
+# Logo scraper
+
+this is a program that scrapes images on a specified url that was used to 
+automate the process of displaying images during a web development project at Hyper Island. 
+
 # Example of a node script
 
 To run a node script, type this in your terminal:
